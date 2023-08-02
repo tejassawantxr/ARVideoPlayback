@@ -19,7 +19,4 @@ public class VideoPlaybackControllerScript : MonoBehaviour
     videoPlayer.Stop();
   }
 
-  public void AdjustVideoVolume(float Volume){
-    videoPlayer.SetDirectAudioVolume(0, Volume);
-  }
 }
