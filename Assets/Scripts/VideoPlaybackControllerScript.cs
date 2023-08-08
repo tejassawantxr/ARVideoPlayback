@@ -19,4 +19,8 @@ public class VideoPlaybackControllerScript : MonoBehaviour
     videoPlayer.Stop();
   }
 
+  public void VideoSlider(){
+
+  }
+
 }
